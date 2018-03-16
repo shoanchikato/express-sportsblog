@@ -4,11 +4,11 @@ Simple Sports Blog App with Bootstrap 3
 
 ## Installation
 
-# Prerequisite 
+Prerequisite 
 
 mondoDB running on default port
 
-bash```
+```bash
 $ npm install  
 ```
 
@@ -16,6 +16,7 @@ $ npm install
 
 * Managing articles
 * Managing article Categories
+* Pug templating
 
 ## License
 
